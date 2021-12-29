@@ -2,4 +2,3 @@
 - 👀 I’m interested in UAVs and Everything CS.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Anything that will help me grow as an Engineer.
-- 📫 reach me through my mail : shahroz14k@gmail.com
