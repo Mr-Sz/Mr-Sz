@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Shahroz Ahmad Khan (@Mr-Sz).
 - 👀 I’m interested in UAVs, Programming, and Video Games.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Anything that will help me grow as an Engineer/Developer.
+- 💞️ I’m looking to collaborate on anything that will help me grow as an Engineer/Developer.
