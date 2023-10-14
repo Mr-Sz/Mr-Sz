@@ -1,4 +1,4 @@
-# 👨‍🔧 **Hello, I'm Shahroz Khan - Aerospace Engineer & Data Enthusiast!** ✈️
+# 👨‍🔧 **Shahroz Khan - Aerospace Engineer & Data Enthusiast!** ✈️
 
 🌌 As an Aerospace Engineering graduate with a burning passion for data science, I'm on a mission to blend the power of aerospace expertise with the magic of data.
 
