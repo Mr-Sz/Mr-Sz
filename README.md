@@ -17,6 +17,6 @@
 
 🔗 **LinkedIn:** [Let's Connect!](https://www.linkedin.com/in/shahroz-ahmad-khan/)  
 💼 **GitHub:** [Follow My Coding!](https://github.com/Mr-Sz)  
-💬 **Discord:** Search for me on Discord: **lazy_szilard**
+💬 **Discord:** **lazy_szilard**
 
 Let's code high, fly high! ✈️ Stay tuned for some data-driven adventures! 📈✨
