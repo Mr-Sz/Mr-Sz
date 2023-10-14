@@ -1,4 +1,4 @@
-# 👨‍🔧 **Hello, I'm Mr. Sz - Aerospace Engineer & Data Enthusiast!** ✈️
+# 👨‍🔧 **Hello, I'm Shahroz Khan - Aerospace Engineer & Data Enthusiast!** ✈️
 
 🌌 As an Aerospace Engineering graduate with a burning passion for data science, I'm on a mission to blend the power of aerospace expertise with the magic of data.
 
@@ -17,5 +17,6 @@
 
 🔗 **LinkedIn:** [Let's Connect!](https://www.linkedin.com/in/shahroz-ahmad-khan/)  
 💼 **GitHub:** [Follow My Coding!](https://github.com/Mr-Sz)
+💬 **Discord:** Search for me on Discord: **lazy_szilard**
 
 Let's code high, fly high! ✈️ Stay tuned for some data-driven adventures! 📈✨
